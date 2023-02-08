@@ -6,3 +6,4 @@
 5. I love numbers - script to Display current directory contents.
 6. Welcome - a script that creates a directory named my_first_directory in the /tmp/ directory.
 7. Betty in my first directory - Move the file betty from /tmp/ to /tmp/my_first_directory.
+8. Bye bye Betty - script that Delete the file betty
