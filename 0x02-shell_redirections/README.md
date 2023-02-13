@@ -5,3 +5,4 @@
 4. Last lines of a file - a script that displays the last 10 lines of /etc/passwd
 5. I'd prefer the first ones actually - a script that displays the first 10 lines of /etc/passwd
 6. Line #2 - a script that displays the third line of the file iacta
+7. It is a good file that cuts iron without making a noise - a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
