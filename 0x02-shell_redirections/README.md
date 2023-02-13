@@ -2,3 +2,4 @@
 1. Confused smiley - a script that prints a confused smiley.
 2. Let's Display a file - a script to Display the content of the /etc/passwd file.
 3. What about 2? - a script that displays cotent of /etc/passwd and /etc/hosts.
+4. Last lines of a file - a script that displays the last 10 lines of /etc/passwd
